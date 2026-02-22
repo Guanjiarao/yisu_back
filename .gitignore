@@ -127,3 +127,6 @@ Thumbs.db
 
 # Vercel
 .vercel
+
+# 上传的图片
+uploads/
